@@ -22,8 +22,8 @@ import javax.mail.internet.MimeMessage;
 public class MailSender {
     public void sendEmail(String email,String sub,String content) throws IOException {
 
-        final String username = "mishraashutosh801@gmail.com";
-        final String password = "Ashutosh@1";
+        final String username = "mishraashu******1@gmail.com";
+        final String password = "**********";
         final String fromemail = username;
         final String subject = sub;
         final String msg = content;
