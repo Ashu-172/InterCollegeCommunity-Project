@@ -74,7 +74,7 @@
                         </div>
                         <div class="row"> 
                             <!-- /.col -->
-                            <div style="text-align: -webkit-center" class="g-recaptcha " data-sitekey="6LdYHTcUAAAAACF7KauukYRQo6fslHepNkHt3TqA"></div>
+                            <div style="text-align: -webkit-center" class="g-recaptcha " data-sitekey=""></div>
                             <span id="CapchaMsg"></span>
                             <div style="margin-top: 10px" class="col-xs-4">
                                 <button type="submit" class="btn btn-primary btn-block btn-flat">Sign In</button>
